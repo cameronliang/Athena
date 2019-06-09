@@ -1,0 +1,21 @@
+Your Athena++ distribution has now been configured with the following options:
+  Problem generator:       cooling
+  Coordinate system:       cartesian
+  Equation of state:       adiabatic
+  Riemann solver:          hllc
+  Reconstruction method:   plm
+  Hydro integrator:        vl2
+  Magnetic fields:         OFF
+  Special relativity:      OFF
+  General relativity:      OFF
+  Frame transformations:   OFF
+  Debug flags:             OFF
+  Linker flags:             
+  MPI parallelism:         OFF
+  OpenMP parallelism:      OFF
+  HDF5 output:             OFF
+  Radiative Transfer:      OFF
+  Cosmic Ray Transfer:     OFF
+  New Thermal Conduction:  OFF
+  Compiler:                g++
+  Compilation command:     g++  -O3
